@@ -1,0 +1,24 @@
+.root {
+	-fx-background-color: rgb(255,255,255);
+}
+
+.text-area{
+	-fx-background-color: rgb(255,255,255);
+}
+
+.text-area .scroll-pane{
+	-fx-background-color: transparent;
+}
+.text-area .scroll-pane .viewport{
+	-fx-background-color: transparent;
+}
+.text-area .scroll-pane .content{
+	-fx-background-color: transparent;
+}
+
+#status-bar {
+	-fx-background-color: rgb(235,235,235);
+}
+#menu-bar {
+	-fx-background-color: rgb(235,235,235);
+}
